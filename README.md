@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Dimpy!
 
-🎨 **Colorful Data Enthusiast | Power BI & Microsoft Fabric Specialist**
+🎨 **Data Enthusiast | Power BI & Microsoft Fabric Specialist**
 
 ---
 
